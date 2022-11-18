@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient( #000000, #535353) ; 
+}
+.sopra:hover {
+    color: #148EE3!important;
+}
+.bottone{
+    background-color:  #148EE3 !important;
+}
+hr{
+    background-color: #FFFFFF;
+}
+.colori1{
+    background-color: transparent !important;
+    border-color: transparent !important;
+    border: 0px;
+    text-align: center;
+
+}
+.sfondo{
+    background-color: #000000 !important;
+}
+.bottone1{
+    background-image: linear-gradient( #000000, #343a40) !important;
+    color: #ffffff;
+}
