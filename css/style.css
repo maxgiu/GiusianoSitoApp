@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient( #000000, #535353) ; 
+    background-image: linear-gradient( #000000, #191818) ; 
 }
 .sopra:hover {
     color: #148EE3!important;
@@ -18,9 +18,16 @@ hr{
 
 }
 .sfondo{
-    background-color: #000000 !important;
+    background-image: linear-gradient( #000000, #191818) !important; 
 }
 .bottone1{
     background-image: linear-gradient( #000000, #343a40) !important;
     color: #ffffff;
 }
+
+
+
+#carouselExampleIndicators {
+    height: 300px;
+}
+  
